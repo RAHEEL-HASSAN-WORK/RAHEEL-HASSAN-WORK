@@ -1,10 +1,11 @@
-💫 About Me:
-🔭 I’m currently a student
-👯 I’m looking to collaborate on coding projects and more
-🤝 I’m seeking help with solving daily challenges
-🌱 I’m currently exploring new tech stacks
-💬 Feel free to ask me anything
+# 💫 About Me:<br>
+🔭 I’m currently a student<br>
+👯 I’m looking to collaborate on coding and more<br>
+🤝 I’m seeking help with daily challenges<br>
+🌱 I’m currently learning new tech stacks<br>
+💬 Ask me about anything<br>
 ⚡ I’m ambitious and eager to learn something new every day
+
 
 
 ## 🌐 Socials:
