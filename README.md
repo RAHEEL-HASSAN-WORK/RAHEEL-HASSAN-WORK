@@ -1,10 +1,11 @@
 # 💫 About Me:<br>
-🔭 I’m currently a student<br>
-👯 I’m looking to collaborate on coding and more<br>
-🤝 I’m seeking help with daily challenges<br>
-🌱 I’m currently learning new tech stacks<br>
-💬 Ask me about anything<br>
-⚡ I’m ambitious and eager to learn something new every day
+🎓 I’m currently a student and a certified Data Analyst<br>
+🧠 I’m working toward a future in Artificial Intelligence and Data Science<br>
+🤝 I’m open to collaborating on data-driven and AI-based projects<br>
+📊 Skilled in Python, Excel, and data visualization tools<br>
+💬 Feel free to ask me about data analysis, learning resources, or tech stacks<br>
+🚀 I’m ambitious and eager to grow every day through new challenges<br>
+
 
 
 
