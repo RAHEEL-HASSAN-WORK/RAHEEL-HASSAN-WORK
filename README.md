@@ -1,10 +1,11 @@
-# 💫 About Me:<br>
-🎓 I’m currently a student and a certified Data Analyst<br>
-🧠 I’m working toward a future in Artificial Intelligence and Data Science<br>
-🤝 I’m open to collaborating on data-driven and AI-based projects<br>
-📊 Skilled in Python, Excel, and data visualization tools<br>
-💬 Feel free to ask me about data analysis, learning resources, or tech stacks<br>
-🚀 I’m ambitious and eager to grow every day through new challenges<br>
+## 💫 About Me <br>
+🎓 I'm a student and a <strong>Certified Data Analyst</strong> <br>
+🧠 Currently focused on <strong>Artificial Intelligence</strong> and <strong>Data Science</strong> <br>
+🤝 Open to collaborating on data-driven and AI/ML projects <br>
+📊 Skilled in Python, Excel, and Data Visualization <br>
+💬 Ask me anything about data, tech stacks, or projects <br>
+🚀 Lifelong learner with a passion for solving real-world problems <br>
+
 
 
 
